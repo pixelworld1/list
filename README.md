@@ -10,6 +10,6 @@
   },
   {
     "نام": "پی وی پی سرور ساخته شد",
-    "تصویر": "http://uupload.ir/files/9qg1_۲۰۲۰۰۹۳۰_۲۲۳۷۰۸.jpg"
+    "تصویر": "http://uupload.ir/files/32gx_screenshot_۲۰۲۰۰۹۲۹-۱۵۲۹۲۵_minecraft.jpg"
   }
 ]
