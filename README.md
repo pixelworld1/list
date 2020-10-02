@@ -21,6 +21,6 @@
   },
   {
     "نام": "تست",
-    "تصویر": " http://uupload.ir/files/vtb0_screenshot_۲۰۲۰۰۹۱۹-۱۹۱۱۱۴_minecra"
+    "تصویر": " http://uupload.ir/files/vtb0_screenshot_۲۰۲۰۰۹۱۹-۱۹۱۱۱۴_minecra.jpg"
   }
 ]
